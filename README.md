@@ -8,7 +8,7 @@
 
 
 ## Live Version
-Click [HERE](https://sosamsony.vercel.app) to visit the live version of this web application.
+Click [HERE](https://samsonestate.vercel.app) to visit the live version of this web application.
 
 
 ## Installation Steps 
