@@ -2,6 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
+  background: #19191b !important;
+  color: white !important;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -13,4 +15,25 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.background-box {
+  background: #4e4e50 !important;
+}
+
+.secondary-color {
+  background: #c3073f !important;
+}
+
+.secondary-color:hover {
+  background: #950740 !important;
+}
+
+.card-image {
+  border-radius: 10px;
+  height: 260px !important;
+}
+
+g {
+  fill: white !important;
 }
